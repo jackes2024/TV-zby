@@ -4,8 +4,8 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 #EXTINF:-1 group-title="China" tvg-logo="" tvg-id="", CCTV4
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="", 凤凰卫视HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706357144/ei/OJ20ZYqYK-rOsfIPrY-wkAw/ip/4.227.14.132/id/ALvxv4ZwK9c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5pya2j7cuxQGmrLr4RWeb5F7hDsk_1mS8kZQoTE1Po/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALzxXqaNNz9keoubRx_j53qx4XTrsf9--hHBk2Pwi7sfAiActoX_yuhJlepqqkyThxXXHgtRl9k2JQA_dPMZ_HY57A%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="", 凤凰资讯HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706358374/ei/BqK0ZYv-E42O_9EPw7mKkA4/ip/20.51.206.99/id/ALvxv4ZwK9c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5jZnjYwPWm1yGRflxgweTrHZGRRmHe_M7mVNmG_Sm4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOLWhJO6vLOxTTBIrw0yLp2drpi76zQckINVRKqw2-kmAiBY5TPucXVHU74bhT7hX-eFIhwXOzlNWqQZYW6asNCVGQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="", 热门音乐
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
