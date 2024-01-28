@@ -79,3 +79,10 @@ https://live.ntdtv.com/uwlive990/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR美東台
 https://live.ntdtv.com/live900/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", VOA音频直播
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/VOA_151_124L/chunklist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", RFA音频直播
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+
