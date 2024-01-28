@@ -52,3 +52,30 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706444141/ei/D
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 東森娛樂台live
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR亞太台
+https://live.ntdtv.com/aplive200/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR中國台
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR休斯頓台
+https://live.ntdtv.com/htlive480/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XT舊金山台
+https://live.ntdtv.com/sflive990/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR加西台
+https://live.ntdtv.com/cwlive220/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR加東台
+https://live.ntdtv.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR歐洲台
+https://live.ntdtv.com/eulive600/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR美西台
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="" tvg-id="", XTR美東台
+https://live.ntdtv.com/live900/playlist.m3u8
